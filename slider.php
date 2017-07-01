@@ -122,7 +122,7 @@
 			echo "<div data-src='$sl_image_url[0]' $url $sl_small_image_url[0]>";
 				if ($caption) { ?>
 					<div class="camera_caption <?php echo $banner_animation;?>">
-						<?php echo stripslashes(htmlspecialchars_decode($caption)); ?>
+						<?php echo stripslashes(htmlspecialchars_decode($caption));?>
 					</div>
 				<?php }
 			echo "</div>";

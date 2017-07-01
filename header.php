@@ -45,6 +45,7 @@
 		 * as styles, scripts, and meta tags.
 		 */
 		wp_head();
+		
 	?>
 	<?php /* The HTML5 Shim is required for older browsers, mainly older versions IE */ ?>
 	<!--[if lt IE 9]>
